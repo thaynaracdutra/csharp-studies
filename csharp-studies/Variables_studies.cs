@@ -3,7 +3,7 @@ using Microsoft.VisualBasic;
 
 namespace csharp_studies;
 
-public class Var
+public class Variables_studies
 {
     public static void Main()
     {
