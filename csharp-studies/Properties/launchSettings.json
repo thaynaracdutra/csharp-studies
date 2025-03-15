@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "csharp-studies": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
