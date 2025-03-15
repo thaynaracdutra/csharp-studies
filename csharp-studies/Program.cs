@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
         {
-        string myName = "Thaynara";
+        string myName = "Thaynara Dutra";
 
         Console.WriteLine(myName); 
     }
